@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="str_load_videos">Select Video</string>
+    <string name="str_compress_video">Compress Video</string>
+    <string name="str_bitrate">bitrate</string>
+    <string name="str_compress_not_supported">Unable to Compress. Continue to watch video.</string>
+    <string name="video_cannot_compress">Permission denied. Continue to watch video.</string>
+    <string name="str_ok">OK</string>
+    <string name="str_play">play</string>
+    <string name="str_pause">pause</string>
+</resources>
